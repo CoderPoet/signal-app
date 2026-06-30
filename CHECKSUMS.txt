@@ -1,0 +1,3 @@
+401d004e2ff1b77c1ac97fc265fffe3e7151580ab72aa7e6fc50d2d6eaa69188  packages/macos/Signal_0.1.2_aarch64.dmg
+b9f1dfba67ff854d5f2a9eb754a658a4527535c18f20f3945b01c2f21f5b9d9c  packages/macos/Signal_0.1.2_universal.dmg
+c83449e22c605ff592055b7277fbe5a62d3eef367ffc48052205ed1524a1a77f  packages/macos/Signal_0.1.2_x64.dmg
