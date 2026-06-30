@@ -1,8 +1,8 @@
 {
   "generated_at": "2026-06-30",
   "source_project": "/Users/bytedance/riches/signal-group/signal",
-  "source_head": "6733e2111ecbafb3b75bfddda2f8f910e2939f9e",
-  "source_note": "Packages were copied from target artifacts. The source worktree had local changes when this distribution repository was initialized.",
+  "source_head": "9986eb10e8410befb461ce50a8cc695cb7d29e7b",
+  "source_note": "Packages were copied from target artifacts. The source worktree had local changes when this distribution repository was updated.",
   "packages": [
     {
       "product": "Signal",
@@ -11,8 +11,8 @@
       "arch": "universal",
       "path": "packages/macos/Signal_0.1.2_universal.dmg",
       "source_path": "/Users/bytedance/riches/signal-group/signal/target/universal-apple-darwin/release/bundle/dmg/Signal_0.1.2_universal.dmg",
-      "size_bytes": 22639413,
-      "sha256": "b9f1dfba67ff854d5f2a9eb754a658a4527535c18f20f3945b01c2f21f5b9d9c"
+      "size_bytes": 24114873,
+      "sha256": "e2c7136dfb45ee61be8f5c8cb7bae93d5c2738223977a27a2c89d746f71e53c1"
     },
     {
       "product": "Signal",
@@ -20,9 +20,9 @@
       "platform": "macos",
       "arch": "aarch64",
       "path": "packages/macos/Signal_0.1.2_aarch64.dmg",
-      "source_path": "/Users/bytedance/riches/signal-group/signal/target/release/bundle/dmg/Signal_0.1.2_aarch64.dmg",
-      "size_bytes": 13408837,
-      "sha256": "401d004e2ff1b77c1ac97fc265fffe3e7151580ab72aa7e6fc50d2d6eaa69188"
+      "source_path": "/Users/bytedance/riches/signal-group/signal/target/aarch64-apple-darwin/release/bundle/dmg/Signal_0.1.2_aarch64.dmg",
+      "size_bytes": 14871528,
+      "sha256": "985ef7340d25c77959de98a500255ff5a4df231514a7a0352fdaaeeed03d6bdb"
     },
     {
       "product": "Signal",
@@ -31,8 +31,8 @@
       "arch": "x86_64",
       "path": "packages/macos/Signal_0.1.2_x64.dmg",
       "source_path": "/Users/bytedance/riches/signal-group/signal/target/x86_64-apple-darwin/release/bundle/dmg/Signal_0.1.2_x64.dmg",
-      "size_bytes": 13502219,
-      "sha256": "c83449e22c605ff592055b7277fbe5a62d3eef367ffc48052205ed1524a1a77f"
+      "size_bytes": 15456353,
+      "sha256": "57f00ca95b4fdf059488c8a229249e0169461f9d71712c38a3f4a75d280bcf65"
     }
   ]
 }

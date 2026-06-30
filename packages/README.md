@@ -6,9 +6,9 @@
 
 | 文件 | 架构 | 大小 | SHA-256 |
 |---|---:|---:|---|
-| `macos/Signal_0.1.2_universal.dmg` | universal | 22639413 bytes | `b9f1dfba67ff854d5f2a9eb754a658a4527535c18f20f3945b01c2f21f5b9d9c` |
-| `macos/Signal_0.1.2_aarch64.dmg` | aarch64 | 13408837 bytes | `401d004e2ff1b77c1ac97fc265fffe3e7151580ab72aa7e6fc50d2d6eaa69188` |
-| `macos/Signal_0.1.2_x64.dmg` | x86_64 | 13502219 bytes | `c83449e22c605ff592055b7277fbe5a62d3eef367ffc48052205ed1524a1a77f` |
+| `macos/Signal_0.1.2_universal.dmg` | universal | 24114873 bytes | `e2c7136dfb45ee61be8f5c8cb7bae93d5c2738223977a27a2c89d746f71e53c1` |
+| `macos/Signal_0.1.2_aarch64.dmg` | aarch64 | 14871528 bytes | `985ef7340d25c77959de98a500255ff5a4df231514a7a0352fdaaeeed03d6bdb` |
+| `macos/Signal_0.1.2_x64.dmg` | x86_64 | 15456353 bytes | `57f00ca95b4fdf059488c8a229249e0169461f9d71712c38a3f4a75d280bcf65` |
 
 ## macOS 安装
 
