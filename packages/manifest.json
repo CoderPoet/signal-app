@@ -2,7 +2,7 @@
   "generated_at": "2026-07-19",
   "source_project": "/Users/bytedance/riches/signal-group/signal",
   "source_head": "8d7462017bc874e7275ac13aa4c9a7a706b8f2f4",
-  "source_note": "All three macOS 0.1.3 packages were refreshed from the architecture-specific target artifacts on 2026-07-19; the source worktree had local changes.",
+  "source_note": "All package checksums were refreshed from the files under packages/macos and packages/win on 2026-07-19.",
   "packages": [
     {
       "product": "Signal",
@@ -39,33 +39,13 @@
     },
     {
       "product": "Signal",
-      "version": "0.1.2",
-      "status": "superseded",
-      "platform": "macos",
-      "arch": "universal",
-      "path": "packages/macos/Signal_0.1.2_universal.dmg",
-      "size_bytes": 24114873,
-      "sha256": "e2c7136dfb45ee61be8f5c8cb7bae93d5c2738223977a27a2c89d746f71e53c1"
-    },
-    {
-      "product": "Signal",
-      "version": "0.1.2",
-      "status": "superseded",
-      "platform": "macos",
-      "arch": "aarch64",
-      "path": "packages/macos/Signal_0.1.2_aarch64.dmg",
-      "size_bytes": 14871528,
-      "sha256": "985ef7340d25c77959de98a500255ff5a4df231514a7a0352fdaaeeed03d6bdb"
-    },
-    {
-      "product": "Signal",
-      "version": "0.1.2",
-      "status": "superseded",
-      "platform": "macos",
+      "version": "0.1.3",
+      "status": "current",
+      "platform": "windows",
       "arch": "x86_64",
-      "path": "packages/macos/Signal_0.1.2_x64.dmg",
-      "size_bytes": 15456353,
-      "sha256": "57f00ca95b4fdf059488c8a229249e0169461f9d71712c38a3f4a75d280bcf65"
+      "path": "packages/win/Signal_0.1.3_x64-setup.exe",
+      "size_bytes": 8232334,
+      "sha256": "4b316718d5bfa71425cac96c1f3589d2687a1d80e17c0e2b08383759a41d5998"
     }
   ]
 }

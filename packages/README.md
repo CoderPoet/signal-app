@@ -9,8 +9,9 @@
 | `macos/Signal_0.1.3_universal.dmg` | universal | 28940768 bytes | `cbdc69768c150ebb151d565b3c546f96f174e46650d58b8e2385712beeecea23` |
 | `macos/Signal_0.1.3_aarch64.dmg` | aarch64 | 17721561 bytes | `0b73d5023b8427e23a63d758f90e50f0c8b2861181aee873dbf82e8ce61816f3` |
 | `macos/Signal_0.1.3_x64.dmg` | x86_64 | 18412495 bytes | `c40f4f38b98fd40904282d617a7fc752be56a01a5aeeaa8c985276dd7138d190` |
+| `win/Signal_0.1.3_x64-setup.exe` | x86_64 | 8232334 bytes | `4b316718d5bfa71425cac96c1f3589d2687a1d80e17c0e2b08383759a41d5998` |
 
-0.1.2 文件仍保留作历史归档；新安装和回归测试请只使用 0.1.3。
+新安装和回归测试请使用 0.1.3。
 
 ## macOS 安装
 
