@@ -6,9 +6,11 @@
 
 | 文件 | 架构 | 大小 | SHA-256 |
 |---|---:|---:|---|
-| `macos/Signal_0.1.2_universal.dmg` | universal | 24114873 bytes | `e2c7136dfb45ee61be8f5c8cb7bae93d5c2738223977a27a2c89d746f71e53c1` |
-| `macos/Signal_0.1.2_aarch64.dmg` | aarch64 | 14871528 bytes | `985ef7340d25c77959de98a500255ff5a4df231514a7a0352fdaaeeed03d6bdb` |
-| `macos/Signal_0.1.2_x64.dmg` | x86_64 | 15456353 bytes | `57f00ca95b4fdf059488c8a229249e0169461f9d71712c38a3f4a75d280bcf65` |
+| `macos/Signal_0.1.3_universal.dmg` | universal | 28940768 bytes | `cbdc69768c150ebb151d565b3c546f96f174e46650d58b8e2385712beeecea23` |
+| `macos/Signal_0.1.3_aarch64.dmg` | aarch64 | 17721561 bytes | `0b73d5023b8427e23a63d758f90e50f0c8b2861181aee873dbf82e8ce61816f3` |
+| `macos/Signal_0.1.3_x64.dmg` | x86_64 | 18412495 bytes | `c40f4f38b98fd40904282d617a7fc752be56a01a5aeeaa8c985276dd7138d190` |
+
+0.1.2 文件仍保留作历史归档；新安装和回归测试请只使用 0.1.3。
 
 ## macOS 安装
 

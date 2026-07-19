@@ -1,3 +1,6 @@
+0b73d5023b8427e23a63d758f90e50f0c8b2861181aee873dbf82e8ce61816f3  packages/macos/Signal_0.1.3_aarch64.dmg
+cbdc69768c150ebb151d565b3c546f96f174e46650d58b8e2385712beeecea23  packages/macos/Signal_0.1.3_universal.dmg
+c40f4f38b98fd40904282d617a7fc752be56a01a5aeeaa8c985276dd7138d190  packages/macos/Signal_0.1.3_x64.dmg
 985ef7340d25c77959de98a500255ff5a4df231514a7a0352fdaaeeed03d6bdb  packages/macos/Signal_0.1.2_aarch64.dmg
 e2c7136dfb45ee61be8f5c8cb7bae93d5c2738223977a27a2c89d746f71e53c1  packages/macos/Signal_0.1.2_universal.dmg
 57f00ca95b4fdf059488c8a229249e0169461f9d71712c38a3f4a75d280bcf65  packages/macos/Signal_0.1.2_x64.dmg

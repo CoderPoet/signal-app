@@ -12,9 +12,13 @@
 
 | 平台 | 文件 | 建议 |
 |---|---|---|
-| macOS Intel + Apple Silicon | [Signal_0.1.2_universal.dmg](packages/macos/Signal_0.1.2_universal.dmg) | 不确定芯片架构时优先用这个 |
-| macOS Apple Silicon | [Signal_0.1.2_aarch64.dmg](packages/macos/Signal_0.1.2_aarch64.dmg) | M1/M2/M3/M4 Mac |
-| macOS Intel | [Signal_0.1.2_x64.dmg](packages/macos/Signal_0.1.2_x64.dmg) | Intel Mac |
+| macOS Intel + Apple Silicon | [Signal_0.1.3_universal.dmg](packages/macos/Signal_0.1.3_universal.dmg) | 不确定芯片架构时优先用这个 |
+| macOS Apple Silicon | [Signal_0.1.3_aarch64.dmg](packages/macos/Signal_0.1.3_aarch64.dmg) | M1/M2/M3/M4 Mac |
+| macOS Intel | [Signal_0.1.3_x64.dmg](packages/macos/Signal_0.1.3_x64.dmg) | Intel Mac |
+
+0.1.3 修复了认知库 Git Remote 配置、商品去重与筛选联动，以及本地 Claude/Codex/Trae
+分析任务未自动提交的问题；安装包还会校验内置 tmux、财报/价格脚本与代码签名。0.1.2
+仅保留作历史归档，不建议继续安装。
 
 校验文件见 [CHECKSUMS.txt](CHECKSUMS.txt)，产物清单见 [packages/manifest.json](packages/manifest.json)。
 
